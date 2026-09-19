@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "template-python-cli"
-version = "0.0.1"
+version = "0.0.0"
 description = "A minimal Python CLI application template baseline."
 readme = "README.md"
 requires-python = ">=3.14"
